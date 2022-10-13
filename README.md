@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jean Carlo Bermudez 
+- 👀 I’m interested in learn different programming languajes
+- 🌱 I’m currently learning C++, Java, HTML and CSS
+- 📫 How to reach me 
+-   Email: bermudezjeancarlo8@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/jean-carlo-bermudez8/
