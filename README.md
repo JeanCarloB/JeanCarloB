@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jean Carlo Bermudez 
+- 👋 Hi, I’m Jean Carlo Bermudez
+- 📚 Currently I'm majoring Systems Engineering in National University of Costa Rica
 - 👀 I’m interested in learn different programming languajes
 - 🌱 I’m currently learning C++, Java, HTML and CSS
 - 📫 How to reach me 
